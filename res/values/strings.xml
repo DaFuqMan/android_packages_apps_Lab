@@ -16,15 +16,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- AOSiP device info settings -->
-    <string name="aosip_version">AOSiP version</string>
-    <string name="aosip_version_default">Unknown</string>
+    <!-- Franken device info settings -->
+    <string name="franken_version">FrankenRom version</string>
+    <string name="franken_version_default">Unknown</string>
 
-    <!-- AOSiP custom settings main -->
+    <!-- Franken custom settings main -->
     <string name="header_category_personalization">UI settings</string>
-    <string name="nest_title">OwlsNest</string>
-    <string name="aosip_title">AOSiP Settings</string>
-    <string name="owlsnest_settings_title">Categories</string>
+    <string name="lab_title">Lab</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
