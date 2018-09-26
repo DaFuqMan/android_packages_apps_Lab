@@ -99,7 +99,8 @@
     <string name="lockscreen_title">Lockscreen</string>
     <string name="lockscreen_summary">Customize lockscreen layout and options</string>
     <string name="options_category">Various</string>
-
+    <string name="face_auto_unlock_title">Face auto unlock</string>
+    <string name="face_auto_unlock_summary">Dismiss lockscreen after face unlocking</string>
 
     <!--advanced-->
     <string name="advanced_title">Advanced Settings</string>
