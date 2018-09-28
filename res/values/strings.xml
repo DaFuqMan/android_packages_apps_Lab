@@ -49,7 +49,8 @@
     <string name="statusbar_bar_title">Statusbar</string>
     <string name="statusbar_bar_summary">Adjust various statusbar elements</string>
     <string name="icon_category">Icons</string>
-
+    <string name="statusbar_items_title">Statusbar items</string>
+    <string name="status_bar_tuner_summary">Edit status bar icons and options</string>
 
     <!--Notification-->
     <string name="notification_title">Notification</string>
@@ -67,7 +68,8 @@
     <string name="navigation_title">Navigation</string>
     <string name="navigation_summary">Customize navigation bar style and behavior</string>
     <string name="navigation_category">Navigation</string>
-
+    <string name="navbar_tuner_title">Edit navigation bar</string>
+    <string name="navbar_tuner_summary">Edit the navigation bar layout and buttons</string>
 
     <!--buttons-->
     <string name="buttons_title">Hardware buttons</string>
@@ -103,6 +105,7 @@
     <string name="face_auto_unlock_summary">Dismiss lockscreen after face unlocking</string>
     <string name="fprint_sucess_vib_title">Fingerprint authentication vibration</string>
     <string name="fprint_sucess_vib_summary">Vibrate on successful fingerprint authentication</string>
+    <string name="lockscreen_tuner_title">Lockscreen shortcuts</string>
 
     <!--advanced-->
     <string name="advanced_title">Advanced Settings</string>
