@@ -93,8 +93,10 @@
     <!--Gestures-->
     <string name="gesture_category">Gesture</string>
     <string name="gesture_summary">Gesture based options/actions</string>
-    <string name="double_tap_sleep_lockscreen">Double tap to sleep on lockscreen</string>
-    <string name="double_tap_sleep_gesture_title">Double tap to sleep on status bar</string>
+    <string name="double_tap_options">Double Tap to Sleep</string>
+    <string name="double_tap_sleep_navbar">Nav Bar</string>
+    <string name="double_tap_sleep_lockscreen">Lockscreen</string>
+    <string name="double_tap_sleep_gesture_title">Status Bar</string>
 
     <!--lockscreen-->
     <string name="lockscreen_title">Lockscreen</string>
