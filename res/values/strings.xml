@@ -63,7 +63,6 @@
     <string name="quicksettings_summary">Manage your quick tiles and expanded statusbar</string>
     <string name="expanded_category">Expanded</string>
 
-
     <!--navigation-->
     <string name="navigation_title">Navigation</string>
     <string name="navigation_summary">Customize navigation bar style and behavior</string>
@@ -91,11 +90,11 @@
     <string name="recent_summary">Configure which recents style and options</string>
     <string name="stock_recent">Stock</string>
 
-
     <!--Gestures-->
     <string name="gesture_category">Gesture</string>
     <string name="gesture_summary">Gesture based options/actions</string>
-
+    <string name="double_tap_sleep_lockscreen">Double tap to sleep on lockscreen</string>
+    <string name="double_tap_sleep_gesture_title">Double tap to sleep on status bar</string>
 
     <!--lockscreen-->
     <string name="lockscreen_title">Lockscreen</string>
@@ -111,7 +110,6 @@
     <string name="advanced_title">Advanced Settings</string>
     <string name="advanced_summary">Misc and extra system settings</string>
     <string name="system_category">System Settings</string>
-
 
 </resources>
 
