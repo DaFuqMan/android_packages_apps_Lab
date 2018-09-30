@@ -62,6 +62,7 @@
     <string name="quicksettings_title">Quick Settings</string>
     <string name="quicksettings_summary">Manage your quick tiles and expanded statusbar</string>
     <string name="expanded_category">Expanded</string>
+    <string name="qs_category">Qs Options</string>
 
     <!--navigation-->
     <string name="navigation_title">Navigation</string>

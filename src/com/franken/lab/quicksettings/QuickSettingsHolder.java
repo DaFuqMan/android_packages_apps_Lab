@@ -32,6 +32,7 @@ import com.android.settings.SettingsPreferenceFragment;
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
 
 import com.franken.lab.quicksettings.ExpandedCategory;
+import com.franken.lab.quicksettings.QsCategory;
 import com.franken.lab.PagerSlidingTabStrip;
 
 public class QuickSettingsHolder extends SettingsPreferenceFragment {
@@ -84,6 +85,7 @@ public class QuickSettingsHolder extends SettingsPreferenceFragment {
         public StatusBarAdapter(FragmentManager fm) {
             super(fm);
             frags[0] = new ExpandedCategory();
+            frags[1] = new QsCategory();
         }
 
         @Override
@@ -105,6 +107,7 @@ public class QuickSettingsHolder extends SettingsPreferenceFragment {
     private String[] getTitles() {
         String titleString[];
         titleString = new String[]{
+                    getString(R.string.qs_category),
                     getString(R.string.expanded_category)};
         return titleString;
     }
