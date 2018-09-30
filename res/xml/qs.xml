@@ -21,4 +21,8 @@
     android:layout="@layout/tab_ui"
     android:title="@string/qs_category" >
 
+    <Preference
+            android:key="qs_settings"
+            android:title="@string/qs_style_category_title"
+            android:fragment="com.franken.lab.quicksettings.QsCategory" />
 </PreferenceScreen>

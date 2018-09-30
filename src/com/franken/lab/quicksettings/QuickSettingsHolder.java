@@ -84,8 +84,8 @@ public class QuickSettingsHolder extends SettingsPreferenceFragment {
 
         public StatusBarAdapter(FragmentManager fm) {
             super(fm);
-            frags[0] = new ExpandedCategory();
-            frags[1] = new QsCategory();
+            frags[0] = new QsCategory();
+            frags[1] = new ExpandedCategory();
         }
 
         @Override

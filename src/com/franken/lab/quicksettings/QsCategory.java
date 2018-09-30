@@ -39,7 +39,7 @@ public class QsCategory extends SettingsPreferenceFragment implements
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        addPreferencesFromResource(R.xml.qs);
+        addPreferencesFromResource(R.xml.qs_settings);
 
     }
 
