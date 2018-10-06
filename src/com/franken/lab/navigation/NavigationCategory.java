@@ -190,7 +190,6 @@ public class NavigationCategory extends ActionFragment implements OnPreferenceCh
         setActionPreferencesEnabled(keysDisabled == 0);
     }
 
-    @Override
     public boolean onPreferenceChange(Preference preference, Object newValue) {
         ContentResolver resolver = getActivity().getContentResolver();
         if (preference == mBacklightTimeout) {

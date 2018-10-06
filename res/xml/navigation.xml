@@ -92,6 +92,7 @@
             android:summary="@string/hardware_keys_double_tap_summary"
             android:title="@string/hardware_keys_double_tap_title" >
         </com.franken.lab.preference.ActionPreference>
+
     </PreferenceCategory>
 
     <PreferenceCategory
