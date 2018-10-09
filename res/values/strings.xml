@@ -167,6 +167,7 @@
     <string name="powermenu_torch">Flashlight</string>
     <string name="powermenu_users">Users</string>
     <string name="powermenu_logout">Logout</string>
+    <string name="volume_category">Volume Keys</string>
 
     <!--recentscreen-->
     <string name="recent_title">Recents</string>

@@ -31,6 +31,7 @@ import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
 
+import com.franken.lab.buttons.VolumeCategory;
 import com.franken.lab.buttons.PowermenuCategory;
 import com.franken.lab.PagerSlidingTabStrip;
 
@@ -83,7 +84,8 @@ public class ButtonsHolder extends SettingsPreferenceFragment {
 
         public StatusBarAdapter(FragmentManager fm) {
             super(fm);
-            frags[0] = new PowermenuCategory();
+            frags[0] = new VolumeCategory();
+            frags[1] = new PowermenuCategory();
         }
 
         @Override
@@ -105,6 +107,7 @@ public class ButtonsHolder extends SettingsPreferenceFragment {
     private String[] getTitles() {
         String titleString[];
         titleString = new String[]{
+                    getString(R.string.volume_category),
                     getString(R.string.powermenu_category)};
         return titleString;
     }
