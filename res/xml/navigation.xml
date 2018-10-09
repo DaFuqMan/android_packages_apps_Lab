@@ -27,6 +27,12 @@
         android:defaultValue="true" />
 
     <Preference
+        android:key="gesture_settings"
+        android:title="@string/gesture_settings_title"
+        android:summary="@string/gesture_settings_summary"
+        android:fragment="com.franken.lab.navigation.OmniGestureSettings" />
+
+    <Preference
             android:title="@string/navbar_tuner_title"
             android:summary="@string/navbar_tuner_summary">
             <intent android:action="android.intent.action.MAIN"
