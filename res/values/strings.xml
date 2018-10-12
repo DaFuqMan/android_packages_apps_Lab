@@ -51,6 +51,11 @@
     <string name="icon_category">Icons</string>
     <string name="statusbar_items_title">Statusbar items</string>
     <string name="status_bar_tuner_summary">Edit status bar icons and options</string>
+    <string name="battery_style_category_title">Battery icon</string>
+    <string name="status_bar_battery_percentage_title">Battery percentage</string>
+    <string name="status_bar_battery_percentage_default">Hidden</string>
+    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
+    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
 
     <!--Notification-->
     <string name="notification_title">Notification</string>
