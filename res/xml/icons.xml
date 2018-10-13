@@ -30,9 +30,15 @@
     </Preference>
 
     <Preference
-            android:key="battery_settings"
-            android:title="@string/battery_style_category_title"
-            android:fragment="com.franken.lab.statusbar.StatusBarBattery" />
+        android:key="battery_settings"
+        android:title="@string/battery_style_category_title"
+        android:fragment="com.franken.lab.statusbar.StatusBarBattery" />
+
+    <Preference
+        android:key="clock_settings"
+        android:title="@string/clock_style_category_title"
+        android:summary="@string/clock_style_category_summary"
+        android:fragment="com.franken.lab.statusbar.ClockSettings" />
 
     <com.franken.lab.preference.SystemSettingSwitchPreference
         android:key="network_traffic_state"
