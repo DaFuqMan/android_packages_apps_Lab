@@ -256,6 +256,8 @@
     <string name="double_tap_sleep_navbar">Nav Bar</string>
     <string name="double_tap_sleep_lockscreen">Lockscreen</string>
     <string name="double_tap_sleep_gesture_title">Status Bar</string>
+    <string name="three_finger_gesture">Three finger swipe to screenshot</string>
+    <string name="three_finger_gesture_summary">OnePlus Style ScreenShot Gesture</string>
 
     <!--lockscreen-->
     <string name="lockscreen_title">Lockscreen</string>
