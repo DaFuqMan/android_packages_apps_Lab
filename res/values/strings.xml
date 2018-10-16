@@ -96,6 +96,8 @@
     <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
     <string name="show_fourg_icon_title">4G icon</string>
     <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string> 
+    <string name="status_bar_logo_title">FrankenRom logo</string>
+    <string name="status_bar_logo_summary">Add Logo to your Statusbar</string>
 
     <!--Notification-->
     <string name="notification_title">Notification</string>
