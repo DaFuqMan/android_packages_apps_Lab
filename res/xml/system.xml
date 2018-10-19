@@ -21,4 +21,10 @@
     android:layout="@layout/tab_ui"
     android:title="@string/system_category" >
 
+    <Preference
+        android:key="keyboard_category"
+        android:title="@string/keyboard_title"
+        android:summary="@string/keyboard_summary"
+        android:fragment="com.franken.lab.advanced.KeyboardSettings" />
+
 </PreferenceScreen>
