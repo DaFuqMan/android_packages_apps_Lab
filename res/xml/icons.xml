@@ -39,6 +39,11 @@
         android:key="battery_settings"
         android:title="@string/battery_style_category_title"
         android:fragment="com.franken.lab.statusbar.StatusBarBattery" />
+    
+    <Preference
+        android:key="batterybar_settings"
+        android:title="@string/battery_bar_title"
+        android:fragment="com.franken.lab.statusbar.BatterybarSettings" />
 
     <Preference
         android:key="clock_settings"
