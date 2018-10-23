@@ -275,6 +275,8 @@
     <string name="lockscreen_tuner_title">Lockscreen shortcuts</string>
     <string name="media_art_title">Media cover art</string>
     <string name="media_art_summary">Enable media cover art on the lockscreen</string>
+    <string name="lockscreen_pin_ripple_title">Pin Ripple</string>
+    <string name="lockscreen_pin_ripple_summary">Disable to remove ripple when entering pin numbers</string>
 
     <!--advanced-->
     <string name="advanced_title">Advanced Settings</string>
