@@ -288,7 +288,7 @@
     <!--lockscreen-->
     <string name="lockscreen_title">Lockscreen</string>
     <string name="lockscreen_summary">Customize lockscreen layout and options</string>
-    <string name="options_category">Various</string>
+    <string name="options_category">Lockscreen options</string>
     <string name="face_auto_unlock_title">Face auto unlock</string>
     <string name="face_auto_unlock_summary">Dismiss lockscreen after face unlocking</string>
     <string name="fprint_sucess_vib_title">Fingerprint authentication vibration</string>
@@ -298,6 +298,8 @@
     <string name="media_art_summary">Enable media cover art on the lockscreen</string>
     <string name="lockscreen_pin_ripple_title">Pin Ripple</string>
     <string name="lockscreen_pin_ripple_summary">Disable to remove ripple when entering pin numbers</string>
+    <string name="lockscreen_power_menu_disabled_title">Disable power menu on lock screen</string>
+    <string name="lockscreen_power_menu_disabled_summary">This will only disable the power menu on secure lock screens</string>
 
     <!--advanced-->
     <string name="advanced_title">Advanced Settings</string>
