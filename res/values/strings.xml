@@ -328,6 +328,17 @@
     <string name="smart_pixels_shift_times_20min">20 minutes</string>
     <string name="smart_pixels_shift_times_30min">30 minutes</string>
     <string name="smart_pixels_shift_times_1h">1 hour</string> 
+    <string name="animation_title">Animations</string>
+    <string name="animation_summary">Control many different types of system animations</string>
+    <string name="listview_animation_title">Listview</string>
+    <string name="misc_animation_title">Miscellaneous</string>
+    <string name="system_animation_title">System</string>
+    <string name="tiles_animation_title">Tiles</string>
+    <string name="screen_off_animation_title">Screen off animation</string>
+    <string name="screen_off_animation_fade">Simple fade</string>
+    <string name="screen_off_animation_color">Color fade</string>
+    <string name="screen_off_animation_crt">CRT</string>
+    <string name="screen_off_animation_scale">Scale</string>
 
 </resources>
 

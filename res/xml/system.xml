@@ -32,4 +32,10 @@
         android:title="@string/smart_pixels_title"
         android:fragment="com.franken.lab.advanced.SmartPixels" />
 
+    <Preference
+        android:key="animation_category"
+        android:title="@string/animation_title"
+        android:summary="@string/animation_summary"
+        android:fragment="com.franken.lab.advanced.AnimationSettings" />
+
 </PreferenceScreen>
