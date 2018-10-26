@@ -330,9 +330,7 @@
     <string name="smart_pixels_shift_times_1h">1 hour</string> 
     <string name="animation_title">Animations</string>
     <string name="animation_summary">Control many different types of system animations</string>
-    <string name="listview_animation_title">Listview</string>
     <string name="misc_animation_title">Miscellaneous</string>
-    <string name="system_animation_title">System</string>
     <string name="tiles_animation_title">Tiles</string>
     <string name="screen_off_animation_title">Screen off animation</string>
     <string name="screen_off_animation_fade">Simple fade</string>
@@ -397,6 +395,12 @@
     <string name="listview_overshoot_interpolator">Overshoot</string>
     <string name="listview_anticipate_overshoot_interpolator">Anticipate and overshoot</string>
     <string name="listview_bounce_interpolator">Bounce</string>
+
+    <!-- SeekBar -->
+    <string name="seekbar_no_default_value">No default value set</string>
+    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">Default value is already set</string>
+    <string name="seekbar_default_string">Default</string>
 
 </resources>
 
