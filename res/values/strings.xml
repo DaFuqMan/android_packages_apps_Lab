@@ -171,6 +171,8 @@
     <string name="qs_panel_alpha_title">Opacity</string>
     <string name="qs_footer_warnings_title">QS footer warnings</string>
     <string name="qs_footer_warnings_summary">Display a warning at bottom of QS panel when network is monitored by external apps or vpn</string>
+    <string name="force_expanded_notifications_title">Force expanded notifications</string>
+    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
 
     <!--navigation-->
     <string name="navigation_title">Navigation</string>

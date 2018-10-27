@@ -21,5 +21,10 @@
     android:layout="@layout/tab_ui"
     android:title="@string/expanded_category" >
 
+    <com.franken.lab.preference.SystemSettingSwitchPreference 
+        android:key="force_expanded_notifications" 
+        android:title="@string/force_expanded_notifications_title" 
+        android:summary="@string/force_expanded_notifications_summary" />
+
 </PreferenceScreen>
 
