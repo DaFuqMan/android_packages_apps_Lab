@@ -36,6 +36,12 @@
 
     </PreferenceCategory>
 
+    <Preference
+        android:key="carbon_gestures"
+        android:title="@string/carbon_gestures_title"
+        android:summary="@string/carbon_gestures_summary"
+        android:fragment="com.franken.lab.gesture.CarbonGesturesSettings" />
+
     <com.franken.lab.preference.SystemSettingSwitchPreference
         android:key="three_finger_gesture" 
         android:title="@string/three_finger_gesture" 

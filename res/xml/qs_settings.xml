@@ -15,6 +15,13 @@
         android:defaultValue="false"
         android:dependency="qs_show_brightness" />
 
+    <com.franken.lab.preference.SystemSettingSwitchPreference
+        android:key="qs_show_brightness_icon"
+        android:title="@string/brightness_icon_title"
+        android:summary="@string/brightness_icon_summary"
+        android:dependency="qs_show_brightness"
+        android:defaultValue="false" />
+
     <com.franken.lab.preference.CustomSeekBarPreference
         android:key="qs_panel_bg_alpha"
         android:title="@string/qs_panel_alpha_title"
