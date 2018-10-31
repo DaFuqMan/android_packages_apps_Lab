@@ -26,5 +26,11 @@
         android:title="@string/force_expanded_notifications_title" 
         android:summary="@string/force_expanded_notifications_summary" />
 
+    <com.franken.lab.preference.SystemSettingListPreference
+        android:key="screenshot_type"
+        android:entries="@array/screenshot_type_entries"
+        android:entryValues="@array/screenshot_type_values"
+        android:title="@string/screenshot_type_title" />
+
 </PreferenceScreen>
 

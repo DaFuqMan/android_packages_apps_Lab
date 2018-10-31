@@ -173,6 +173,9 @@
     <string name="qs_footer_warnings_summary">Display a warning at bottom of QS panel when network is monitored by external apps or vpn</string>
     <string name="force_expanded_notifications_title">Force expanded notifications</string>
     <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <string name="screenshot_type_title">Screenshot type</string>
+    <string name="screenshot_type_fullscreen">Fullscreen screenshots</string>
+    <string name="screenshot_type_partial">Partial screenshots</string>
 
     <!--navigation-->
     <string name="navigation_title">Navigation</string>
