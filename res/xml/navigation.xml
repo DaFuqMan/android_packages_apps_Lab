@@ -203,4 +203,10 @@
 
     </PreferenceCategory>
 
+    <Preference
+            android:key="pulse_settings"
+            android:title="@string/pulse_settings"
+            android:summary="@string/pulse_settings_summary"
+            android:fragment="com.franken.lab.navigation.PulseSettings" />
+
 </PreferenceScreen>
